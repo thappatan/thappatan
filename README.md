@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/dXX6XfRIsOWf6/giphy.gif" width="1024px"/>
+  <img src="https://ipfs.io/ipfs/QmZMk7qy7J1PFAe2CKfeFbSiUN5eRwaRtY2gFoKCT8dDmi" width="1024px"/>
 </p>
