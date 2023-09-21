@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://ipfs.io/ipfs/QmZMk7qy7J1PFAe2CKfeFbSiUN5eRwaRtY2gFoKCT8dDmi" width="1024px"/>
-</p>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/thappatan/thappatan/blob/master/devcard.svg" width="400" alt="Devsun's Dev Card"/></a>
